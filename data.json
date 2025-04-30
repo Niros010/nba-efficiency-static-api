@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Nikola Jokic",
+    "team": "DEN",
+    "gamesPlayed": 72,
+    "oes": 87.6,
+    "odes": 104.3,
+    "avgPlusMinus": 6.4
+  },
+  {
+    "id": 2,
+    "name": "Luka Doncic",
+    "team": "DAL",
+    "gamesPlayed": 70,
+    "oes": 89.1,
+    "odes": 106.5,
+    "avgPlusMinus": 5.8
+  },
+  {
+    "id": 3,
+    "name": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "gamesPlayed": 68,
+    "oes": 85.3,
+    "odes": 102.7,
+    "avgPlusMinus": 7.2
+  }
+]
